@@ -28,4 +28,3 @@ def arrays(n):
 
 number = int(input())
 array = arrays(number)
-print(array)
